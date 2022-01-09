@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "E:\\WebSites\\PHP BAZA\\XAMPP\\htdocs"
+		},
+		{
+			"path": "E:\\WebSites\\NETLIFY"
+		},
+		{
+			"path": "E:\\WebSites\\Video Crew"
+		}
+	],
+	"settings": {
+		"discord.suppressNotifications": true,
+		"discord.lowerDetailsNoWorkspaceFound": "{current_line}",
+		"discord.lowerDetailsEditing": "Workspace: PHP",
+		"discord.detailsIdling": "Idk how to do this"
+	}
+}
